@@ -4,8 +4,8 @@ Utility to render LINE Flex Bubble / Carousel JSON for displaying in website.
 
 ## Installation
 
-```bash
-pnpm add @iamprompt/flex-render
+```
+pip install flask line-bot-sdkrender
 ```
 
 ## Usage
